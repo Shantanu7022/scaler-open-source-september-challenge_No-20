@@ -1,6 +1,6 @@
 # scaler-open-source-september-challenge_No-20
 ## Challenge 20:  Set Up a GitHub Action for Code Linting.
-#### Main Repository: [Click Here](https://github.com/Shantanu7022/scaler-open-source-september-challenge.git)
+### Main Repository: [Click Here](https://github.com/Shantanu7022/scaler-open-source-september-challenge.git)
 
 Welcome to the 20th Challenge!
 
