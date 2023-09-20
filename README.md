@@ -1,6 +1,8 @@
 # scaler-open-source-september-challenge_No-20
- ### Challenge 20:  Set Up a GitHub Action for Code Linting
- 
+### Challenge 20:  Set Up a GitHub Action for Code Linting
+#### Main Repository: [Click Here](https://github.com/Shantanu7022/scaler-open-source-september-challenge.git)
+
+
 Welcome to the 20th Challenge!
 
 Today's challenge is all about getting familiar with GitHub Actions and setting up a code linter workflow in your own repository. GitHub Actions allows you to automate various tasks, and one common use case is running code linting checks on your codebase.
